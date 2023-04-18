@@ -8,8 +8,8 @@ dotenv was installed to use environment variables and react-icons for icons, usi
 <h2> npm install.
 <h2> And use the Tmdb API with your key.
 <h2> To start the project use.
-<h2> npm start
-<br>
+<h2> npm start.
+  <br></br>
 
 
 
