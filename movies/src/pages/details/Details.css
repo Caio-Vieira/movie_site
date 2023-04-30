@@ -10,8 +10,7 @@
    font-family: 'Source Serif Pro', serif;
 }
 .item--button:hover{
- background: linear-gradient(115.7deg, rgb(132, 222, 255) 7.6%,
-  rgba(8, 30, 64, 0.767) 99.8%);
+ background: linear-gradient(115.7deg, rgb(132, 222, 255) 7.6%, rgba(8, 30, 64, 0.767) 99.8%);
  box-shadow:1px 1px 10px 5px #0c98f5;
   
 }
